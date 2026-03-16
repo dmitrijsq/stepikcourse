@@ -1,0 +1,6 @@
+итого 8
+-rw-rw-r-- 1 dmitrij dmitrij  0 мар 11 19:11 errors.txt
+-rw-rw-r-- 1 dmitrij dmitrij  0 мар 11 19:12 ls_output.txt
+-rw-rw-r-- 1 dmitrij dmitrij 17 мар 11 19:11 numbers.txt
+-rw-rw-r-- 1 dmitrij dmitrij 20 мар 11 19:11 words.txt
+Ср 11 мар 2026 19:12:29 MSK
